@@ -7,6 +7,7 @@ namespace CICD
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World, good bye? Maybe not? Hello there");
+            Console.WriteLine("Test123");
         }
     }
 }
